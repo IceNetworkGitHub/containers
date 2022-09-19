@@ -1,0 +1,3 @@
+- podman network list
+- podman network inspect
+- podman network inspect bridge
